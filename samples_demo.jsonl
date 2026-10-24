@@ -1,0 +1,2 @@
+{"question": "什么是大模型评测中的 Pass@1？", "reference_answer": "Pass@1 指模型在单次生成中即给出正确答案的概率，是衡量代码生成等任务的核心指标。", "answer": "Pass@1 就是模型一次生成就答对的概率，常用在代码生成评测里。"}
+{"question": "OpenCompass 支持哪些评测数据集？", "reference_answer": "OpenCompass 支持 MMLU、GSM8K、C-Eval、HumanEval 等主流数据集，覆盖知识、推理、代码等能力。", "answer": "OpenCompass 支持 MMLU 和 GSM8K，还有 C-Eval、HumanEval 等很多数据集，覆盖了知识、推理和代码能力。"}
